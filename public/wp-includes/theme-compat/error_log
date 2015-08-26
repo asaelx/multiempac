@@ -1,0 +1,4 @@
+[21-Aug-2015 11:36:10 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/multiemp/public_html/wp-includes/theme-compat/footer.php on line 10
+[21-Aug-2015 16:53:38 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/multiemp/public_html/wp-includes/theme-compat/footer.php on line 10
+[24-Aug-2015 02:21:55 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/multiemp/public_html/wp-includes/theme-compat/footer.php on line 10
+[25-Aug-2015 09:57:27 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/multiemp/public_html/wp-includes/theme-compat/footer.php on line 10

@@ -1,0 +1,10 @@
+[11-Mar-2015 17:12:27 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/header.php on line 11
+[14-Mar-2015 08:36:57 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/header.php on line 11
+[21-Mar-2015 09:56:03 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/header.php on line 11
+[22-Mar-2015 07:30:56 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/header.php on line 11
+[18-Apr-2015 20:00:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/index.php on line 11
+[28-Apr-2015 09:10:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/index.php on line 11
+[20-May-2015 18:06:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/index.php on line 11
+[10-Jul-2015 13:11:32 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/index.php on line 11
+[21-Aug-2015 06:13:22 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/content-rightsidebar.php on line 15
+[25-Aug-2015 14:18:02 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/multiemp/public_html/wp-content/themes/MultiempacTheme/index.php on line 11

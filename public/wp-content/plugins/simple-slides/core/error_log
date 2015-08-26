@@ -1,0 +1,4 @@
+[20-Aug-2015 07:04:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/multiemp/public_html/wp-content/plugins/simple-slides/core/listtable.php on line 5
+[22-Aug-2015 04:38:47 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/multiemp/public_html/wp-content/plugins/simple-slides/core/listtable.php on line 5
+[23-Aug-2015 08:32:25 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/multiemp/public_html/wp-content/plugins/simple-slides/core/listtable.php on line 5
+[23-Aug-2015 20:16:15 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/multiemp/public_html/wp-content/plugins/simple-slides/core/listtable.php on line 5
